@@ -44,8 +44,7 @@ var tl=gsap.timeline({
     scroller:".main",
     start:"top 30%",
     end:"top 0",
-    scrub:3
-}
+    
 
 })
 
